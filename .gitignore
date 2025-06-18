@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+obj/
+
+# .NET tooling
+*.user
+*.vs/
+
+# npm / React
+node_modules/
+dist/
+build/
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# Visual Studio Code
+.vscode/
